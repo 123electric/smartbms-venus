@@ -11,7 +11,7 @@
 #### following line incorporates SetupHelper utilities into this script
 # Refer to the SetupHelper ReadMe file for details.
 
-source "/data/SetupHelper/CommonResources"
+source "/data/SetupHelper/HelperResources/IncludeHelpers"
 
 stop_smartbms_ttys() {
 	ls /dev | grep ttyUSB | while read -r line ; do
