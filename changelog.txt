@@ -1,3 +1,9 @@
+v1.14 - 22-1-2025
+-Updated version to Ensure all systems update from v1.13 to v1.14 for new install script
+
+v1.13 - 12-8-2024
+-Bumped version to v1.13, same as v1.11
+
 v1.11 - 8-2-2024
 -Added support for optional key-value pairs for the SmartBMS. This enables extra data to be received like SoH etc
 -Added firmware version display (from firmware v3.3.6)
